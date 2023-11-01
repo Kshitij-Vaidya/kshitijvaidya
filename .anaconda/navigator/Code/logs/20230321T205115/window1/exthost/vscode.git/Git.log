@@ -1,0 +1,20 @@
+2023-03-21 20:51:17.487 [info] Log level: Info
+2023-03-21 20:51:17.517 [info] Validating found git in: "/usr/bin/git"
+2023-03-21 20:51:17.552 [info] Using git "2.37.1 (Apple Git-137.1)" from "/usr/bin/git"
+2023-03-21 20:51:37.758 [info] Log level: Info
+2023-03-21 20:51:37.758 [info] Validating found git in: "/usr/bin/git"
+2023-03-21 20:51:37.763 [info] Using git "2.37.1 (Apple Git-137.1)" from "/usr/bin/git"
+2023-03-21 20:51:37.889 [info] > git rev-parse --show-toplevel [124ms]
+2023-03-21 20:51:37.889 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-21 20:51:37.897 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-21 20:51:37.897 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-21 20:51:37.909 [info] > git rev-parse --show-toplevel [11ms]
+2023-03-21 20:51:37.909 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-21 20:51:43.016 [info] > git rev-parse --show-toplevel [90ms]
+2023-03-21 20:51:43.016 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-21 20:51:44.760 [info] > git rev-parse --show-toplevel [18ms]
+2023-03-21 20:51:44.760 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-21 20:51:48.162 [info] > git rev-parse --show-toplevel [10ms]
+2023-03-21 20:51:48.162 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-21 20:51:50.688 [info] > git rev-parse --show-toplevel [10ms]
+2023-03-21 20:51:50.688 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,5 @@
+/opt/anaconda3/envs/my-env
+/opt/anaconda3
+/Users/kshitijvaidya/mambaforge
+/Users/kshitijvaidya/mambaforge/envs/sage
+/Users/kshitijvaidya/Desktop/VirtualEnvironment/.conda

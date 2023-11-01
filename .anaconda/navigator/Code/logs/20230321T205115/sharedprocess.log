@@ -1,0 +1,5 @@
+2023-03-21 20:51:17.311 [info] Starting worker process with pid 64965 (type: fileWatcher, window: 1).
+2023-03-21 20:51:17.339 [info] Deleted from disk ms-python.python /Users/kshitijvaidya/.vscode/extensions/ms-python.python-2023.5.10752340
+2023-03-21 20:51:34.843 [info] Worker process with pid 64965 terminated normally (type: fileWatcher, window: 1).
+2023-03-21 20:51:35.168 [info] Starting worker process with pid 65004 (type: fileWatcher, window: 1).
+2023-03-21 20:52:31.199 [info] Worker process with pid 65004 terminated normally (type: fileWatcher, window: 1).

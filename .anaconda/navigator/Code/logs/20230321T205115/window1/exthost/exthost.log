@@ -1,0 +1,35 @@
+2023-03-21 20:51:17.176 [info] Extension host with pid 64963 started
+2023-03-21 20:51:17.227 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2023-03-21 20:51:17.257 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-21 20:51:17.270 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-21 20:51:17.382 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-21 20:51:17.407 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-21 20:51:17.456 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-21 20:51:17.488 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-21 20:51:17.554 [info] Eager extensions activated
+2023-03-21 20:51:17.561 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:17.562 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:17.581 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:34.834 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-21 20:51:34.839 [info] Extension host with pid 64963 exiting with code 0
+2023-03-21 20:51:35.386 [info] Extension host with pid 65005 started
+2023-03-21 20:51:35.386 [info] Skipping acquiring lock for /Users/kshitijvaidya/.anaconda/navigator/Code/User/workspaceStorage/19b07fa4f7010c2d75f0d2fabd068065.
+2023-03-21 20:51:35.394 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-21 20:51:35.401 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-03-21 20:51:35.408 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-21 20:51:35.410 [info] Eager extensions activated
+2023-03-21 20:51:35.438 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:35.440 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:35.473 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-21 20:51:35.547 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-21 20:51:37.690 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-03-21 20:51:37.727 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:37.748 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2023-03-21 20:51:37.766 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'workspaceContains:*.py', root cause: ms-python.isort
+2023-03-21 20:51:38.082 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'workspaceContains:*.py'
+2023-03-21 20:51:42.869 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-21 20:51:42.875 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-21 20:51:42.901 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-21 20:51:42.946 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-03-21 20:52:31.073 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-21 20:52:31.099 [info] Extension host with pid 65005 exiting with code 0

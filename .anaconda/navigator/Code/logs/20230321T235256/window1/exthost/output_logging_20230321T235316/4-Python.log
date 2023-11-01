@@ -1,0 +1,9 @@
+Experiment 'pythonPromptNewToolsExt' is active
+Python interpreter path: /opt/anaconda3/bin/python
+> /opt/anaconda3/bin/conda info --json
+Starting Pylance language server.
+> /opt/anaconda3/bin/conda config --get auto_activate_base
+> /opt/anaconda3/bin/conda info --json
+Send text to terminal: conda activate base
+> /opt/anaconda3/bin/conda info --json
+Send text to terminal: conda activate base

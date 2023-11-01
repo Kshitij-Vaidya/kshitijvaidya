@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.condaPath": "/opt/anaconda3/bin/conda",
+    "python.defaultInterpreterPath": "/opt/anaconda3/bin/python",
+    "python.pythonPath": "/opt/anaconda3/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.inheritEnv": false
+}

@@ -1,0 +1,32 @@
+[Info  - 20:51:43] (65043) Pylance language server 2023.3.20 (pyright 93a4ef87) starting
+[Info  - 20:51:43] (65043) Server root directory: /Users/kshitijvaidya/.vscode/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 20:51:43] (65043) Starting service instance "Kshitij Python"
+[Info  - 20:51:43] (65043) Auto-indent enabled
+[Info  - 20:51:43] (65043) No configuration file found.
+[Info  - 20:51:43] (65043) No pyproject.toml file found.
+[Info  - 20:51:43] (65043) Setting pythonPath for service "Kshitij Python": "/opt/anaconda3/bin/python"
+[Warn  - 20:51:43] (65043) stubPath /Users/kshitijvaidya/Kshitij Python/typings is not a valid directory.
+[Info  - 20:51:43] (65043) Assuming Python version 3.9
+[Info  - 20:51:43] (65043) Assuming Python platform Darwin
+[Info  - 20:51:43] (65043) Searching for source files
+[Info  - 20:51:43] (65043) Auto-excluding /Users/kshitijvaidya/Kshitij Python/VirtualEnvironment
+[Info  - 20:51:43] (65043) No source files found.
+[Info  - 20:51:43] (65043) Background analysis(1) root directory: /Users/kshitijvaidya/.vscode/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 20:51:43] (65043) Background analysis(1) started
+[Info  - 20:51:44] (65043) Starting service instance "<default>"
+[Info  - 20:51:44] (65043) No pyproject.toml file found.
+[Info  - 20:51:44] (65043) Setting pythonPath for service "<default>": "/opt/anaconda3/bin/python"
+[Warn  - 20:51:44] (65043) stubPath typings is not a valid directory.
+[Info  - 20:51:44] (65043) Assuming Python version 3.9
+[Info  - 20:51:44] (65043) Assuming Python platform Darwin
+[Info  - 20:51:44] (65043) Searching for source files
+[Info  - 20:51:44] (65043) No source files found.
+[Info  - 20:51:45] (65043) Background analysis(2) root directory: /Users/kshitijvaidya/.vscode/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 20:51:45] (65043) Background analysis(2) started
+[Info  - 20:51:45] (65043) Indexer background runner(3) root directory: /Users/kshitijvaidya/.vscode/extensions/ms-python.vscode-pylance-2023.3.20/dist (index)
+[Info  - 20:51:45] (65043) Indexing(3) started
+[Info  - 20:51:45] (65043) scanned(3) 453 files over 1 exec env
+[Info  - 20:51:47] (65043) [IDX(3)] Long operation: index execution environment /Users/kshitijvaidya/Kshitij Python (2210ms)
+[Info  - 20:51:47] (65043) [IDX(3)] Long operation: index packages /Users/kshitijvaidya/Kshitij Python (2215ms)
+[Info  - 20:51:47] (65043) indexed(3) 264 files over 1 exec env
+[Info  - 20:51:47] (65043) Indexing finished(3).

@@ -1,0 +1,24 @@
+[Running] python -u "/Users/kshitijvaidya/Kshitij Python/VirtualEnvironment/Test2.py"
+Traceback (most recent call last):
+  File "/Users/kshitijvaidya/Kshitij Python/VirtualEnvironment/Test2.py", line 3, in <module>
+    new_matrix = np.array([1,2,3],[4,5,6],[7,8,9])
+TypeError: array() takes from 1 to 2 positional arguments but 3 were given
+
+[Done] exited with code=1 in 0.83 seconds
+
+[Running] python -u "/Users/kshitijvaidya/Kshitij Python/VirtualEnvironment/Test2.py"
+Traceback (most recent call last):
+  File "/Users/kshitijvaidya/Kshitij Python/VirtualEnvironment/Test2.py", line 3, in <module>
+    new_matrix = np.array([1,2,3],[4,5,6],[7,8,9])
+TypeError: array() takes from 1 to 2 positional arguments but 3 were given
+
+[Done] exited with code=1 in 0.725 seconds
+
+[Running] python -u "/Users/kshitijvaidya/Kshitij Python/VirtualEnvironment/Test2.py"
+Traceback (most recent call last):
+  File "/Users/kshitijvaidya/Kshitij Python/VirtualEnvironment/Test2.py", line 3, in <module>
+    new_matrix = np.array([1,2,3],[4,5,6])
+TypeError: Field elements must be 2- or 3-tuples, got '4'
+
+[Done] exited with code=1 in 0.725 seconds
+

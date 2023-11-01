@@ -1,0 +1,68 @@
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+GuineaPigs.c:5:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main(void)
+^
+GuineaPigs.c:5:1: note: change return type to 'int'
+void main(void)
+^~~~
+int
+GuineaPigs.c:18:26: warning: format specifies type 'int *' but the argument has type 'int' [-Wformat]
+            scanf("%d  ",d[j]);
+                   ~~    ^~~~
+GuineaPigs.c:20:14: error: implicit declaration of function 'Aviaries' is invalid in C99 [-Werror,-Wimplicit-function-declaration]
+        a[i]=Aviaries(n,d[n]);
+             ^
+2 warnings and 1 error generated.
+
+[Done] exited with code=1 in 0.071 seconds
+
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+GuineaPigs.c:18:26: warning: format specifies type 'int *' but the argument has type 'int' [-Wformat]
+            scanf("%d  ",d[j]);
+                   ~~    ^~~~
+GuineaPigs.c:20:14: error: implicit declaration of function 'Aviaries' is invalid in C99 [-Werror,-Wimplicit-function-declaration]
+        a[i]=Aviaries(n,d[n]);
+             ^
+1 warning and 1 error generated.
+
+[Done] exited with code=1 in 0.091 seconds
+
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+GuineaPigs.c:18:26: warning: format specifies type 'int *' but the argument has type 'int' [-Wformat]
+            scanf("%d  ",d[j]);
+                   ~~    ^~~~
+GuineaPigs.c:20:14: error: implicit declaration of function 'Aviaries' is invalid in C99 [-Werror,-Wimplicit-function-declaration]
+        a[i]=Aviaries(n,d[n]);
+             ^
+1 warning and 1 error generated.
+
+[Done] exited with code=1 in 0.277 seconds
+
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+GuineaPigs.c:12:9: error: redefinition of 't'
+    int t=0; int p=0;
+        ^
+GuineaPigs.c:8:9: note: previous definition is here
+    int t; int n;
+        ^
+1 error generated.
+
+[Done] exited with code=1 in 0.329 seconds
+
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+GuineaPigs.c:9:21: error: use of undeclared identifier 't'
+    int d[n]; int a[t];
+                    ^
+1 error generated.
+
+[Done] exited with code=1 in 0.072 seconds
+
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+/bin/sh: line 1: 75848 Segmentation fault: 11  "/Users/kshitijvaidya/Codes/"GuineaPigs
+
+[Done] exited with code=139 in 0.768 seconds
+
+[Running] cd "/Users/kshitijvaidya/Codes/" && gcc GuineaPigs.c -o GuineaPigs && "/Users/kshitijvaidya/Codes/"GuineaPigs
+
+[Done] exited with code=null in 508.486 seconds
+

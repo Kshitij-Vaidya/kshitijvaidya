@@ -1,0 +1,42 @@
+Name: isort
+Module: isort
+Python extension loading
+Waiting for interpreter from python extension.
+Python extension loaded
+CWD Server: /Users/kshitijvaidya/Kshitij Python
+sys.path used to run Server:
+   /Users/kshitijvaidya/.vscode/extensions/ms-python.isort-2022.8.0/bundled/libs
+   /Users/kshitijvaidya/.vscode/extensions/ms-python.isort-2022.8.0/bundled/tool
+   /opt/anaconda3/lib/python39.zip
+   /opt/anaconda3/lib/python3.9
+   /opt/anaconda3/lib/python3.9/lib-dynload
+   /opt/anaconda3/lib/python3.9/site-packages
+   /opt/anaconda3/lib/python3.9/site-packages/aeosa
+Settings used to run Server:
+[
+    {
+        "check": false,
+        "workspace": "file:///Users/kshitijvaidya/Kshitij%20Python",
+        "logLevel": "error",
+        "args": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "path": [],
+        "interpreter": [
+            "/opt/anaconda3/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+/opt/anaconda3/bin/python -m isort --version-number
+CWD Linter: /Users/kshitijvaidya/Kshitij Python
+Version info for isort running for /Users/kshitijvaidya/Kshitij Python:
+5.10.1
+
+SUPPORTED isort>=5.10.1
+FOUND isort==5.10.1
+

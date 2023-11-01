@@ -1,0 +1,11 @@
+Experiment 'pythonPromptNewToolsExt' is active
+> /opt/anaconda3/bin/conda info --json
+> "~/Kshitij Python/VirtualEnvironment/bin/python" -I ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/interpreterInfo.py
+> /usr/local/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/interpreterInfo.py
+> /usr/local/bin/python3.10 -I ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/interpreterInfo.py
+> /opt/anaconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/interpreterInfo.py
+> /opt/anaconda3/envs/my-env/bin/python -I ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.5.10791008/pythonFiles/interpreterInfo.py
+Python interpreter path: /opt/anaconda3/bin/python
+> /opt/anaconda3/bin/conda config --get auto_activate_base
+Starting Pylance language server.
